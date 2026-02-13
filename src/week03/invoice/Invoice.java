@@ -45,6 +45,7 @@ public class Invoice {
     public void setPricePerItem(double pricePerItem) {
         this.pricePerItem = pricePerItem;
     }
+
 }
 
 
